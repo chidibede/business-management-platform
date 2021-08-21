@@ -1,0 +1,7 @@
+{
+  "name": "business-management-platform",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
